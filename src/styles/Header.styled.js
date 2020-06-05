@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Div = styled.div`
-background:#2E2E2E;
+background: #24292e;;
 margin-bottom:35px;
 display:flex;
 width:100%;
@@ -35,4 +35,5 @@ export const Notificacao = styled.img`
 
 `;
 export const Container = styled.div`
+display:flex;
 `;

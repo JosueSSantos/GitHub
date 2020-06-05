@@ -1,10 +1,9 @@
 import React from "react";
-import { Container, Title, Content } from "../Card.styles";
+import { Container, Content } from "../Card.styles";
 
-export default function Card({ title, children }) {
+export default function Card({ children }) {
   return (
     <Container>
-      <Title>{title}</Title>
       <Content>{children}</Content>
     </Container>
   );
