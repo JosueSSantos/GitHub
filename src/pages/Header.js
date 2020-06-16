@@ -1,8 +1,6 @@
 import React from 'react';
 import { Div, Img, Input, Button, Notificacao, Container } from "../styles/Header.styled";
 import git from "./../assets/github.png";
-import perfil from "./../assets/notifica.png";
-
 export default function Header() {
   return (
     <header >

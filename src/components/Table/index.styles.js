@@ -44,6 +44,19 @@ background:white;
 border:1px solid #D8D8D8;
 border-radius:4px;
 width:100%;
+cursor:pointer;
+:hover{
+  background:#D8D8D8;
+  label{
+    color:black;
+  }
+  strong:hover{
+    box-shadow:0px 2px black;
+  }
+
+}
+
+
 `;
 export const ContMaster = styled.div`
 align-items:center;
