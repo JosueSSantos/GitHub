@@ -46,6 +46,7 @@ border-radius:4px;
 width:100%;
 `;
 export const ContMaster = styled.div`
+align-items:center;
 `;
 export const Children = styled.div`
 display:flex;

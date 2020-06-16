@@ -15,10 +15,8 @@ export default function Header() {
         <Button>Explore</Button>
         <Notificacao />
         <Container>
-          <Img src={perfil} />
-
+          <Img />
         </Container>
-
       </Div>
     </header>
 
